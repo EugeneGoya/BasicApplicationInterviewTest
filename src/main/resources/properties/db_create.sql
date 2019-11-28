@@ -1,0 +1,8 @@
+CREATE TABLE `flat_users` (
+  `ID` int(11) NOT NULL ,
+  `NAME` varchar(50) NOT NULL,
+  `DATE_OF_BIRTH` date NOT NULL,
+  `CITY_NAME` varchar(50) DEFAULT NULL,
+  `COUNTY_NAME` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`ID`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1

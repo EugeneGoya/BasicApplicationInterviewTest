@@ -1,0 +1,5 @@
+id, name, date_of_birth, city_id
+1,Eugene,1999-10-24,1
+2,Oleksandr,1999-10-24,2
+3,Sergey,1999-10-24,1
+4,Oleg,1999-10-24,1
